@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640913352232",
+    "project_id": "mawarid-alkhairat",
+    "storage_bucket": "mawarid-alkhairat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640913352232:android:10bce69dd7752e068bf71d",
+        "android_client_info": {
+          "package_name": "com.alkhairat.employeeportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI9ddXl1GdRdeBZ_08XCH9uqbVvvKkuUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
